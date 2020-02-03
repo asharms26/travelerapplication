@@ -10,6 +10,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.PriorityQueue;
 import java.util.Set;
+import travelerapplication.structures.*;
 
 /**
  *
